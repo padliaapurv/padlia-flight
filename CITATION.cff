@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: padlia-flight
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Apurv
+    family-names: Padlia
+    email: padlia_apurv@yahoo.com
+identifiers:
+  - type: other
+    value: 'https://www.linkedin.com/in/apurv-padlia-a63932174/'
+    description: Linkedin
+repository-code: 'https://github.com/padliaapurv/padlia-flight'
+version: 1.1.1
+date-released: '2023-05-02'
