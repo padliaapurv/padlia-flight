@@ -1,4 +1,4 @@
-Building an aircraft toolboxs
+Building an aircraft-toolbox
 ```mermaid
   graph LR;
       A(padlia-flight)-->B(numerical-methods);
